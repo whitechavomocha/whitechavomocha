@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ### Hi👋 I'm Mehmet Kudsi
 
 <br />
-<br />
-<br />
 
 ### Connect with me:
 
@@ -34,8 +32,6 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/mehmetkudsiodaman/
 
 <br />
-<br />
-<br />
 
 ## 🔧 Tools n Programs:
 
@@ -45,9 +41,6 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="GitHub" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-<br />
-<br />
-<br />
 <br />
 
 [<img align="left" alt="unity" width="120px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Funity3d.com%2Fprofiles%2Funity3d%2Fthemes%2Funity%2Fimages%2Fpages%2Fbranding_trademarks%2Funity-masterbrand-black.png&f=1&nofb=1" />][unity]
@@ -60,11 +53,6 @@ Here are some ideas to get you started:
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ## 🔧 Languages:
 
@@ -76,18 +64,9 @@ Here are some ideas to get you started:
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitechavomocha&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
-<br />
-<br />
-<br />
 <br />
 
 ![](https://komarev.com/ghpvc/?username=whitechavomocha&color=blueviolet)
