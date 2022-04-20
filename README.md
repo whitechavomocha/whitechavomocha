@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="whitechavomocha" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][mail]
 [<img align="left" alt="whitechavomocha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="whitechavomocha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [mail]: mailto:whitechavomocha@gmail.com
