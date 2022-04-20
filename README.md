@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 -->
 
-### Hi👋 I'm Mehmet Kudsi
+### Hi👋
 
 <br />
 
@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="whitechavomocha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[mail]: mailto:mehmetkudsi@yandex.com
+[mail]: mailto:whitechavomocha@gmail.com
 [twitter]: https://twitter.com/whitechavomocha
-[linkedin]: https://www.linkedin.com/in/mehmetkudsiodaman/
 
 <br />
 
